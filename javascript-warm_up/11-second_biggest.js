@@ -18,4 +18,3 @@ const secondBiggest = () => {
     console.log(secondMax);
   };
   secondBiggest();
-  
